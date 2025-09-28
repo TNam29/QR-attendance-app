@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/attendancehistory.tsx","./src/components/qrscanner.tsx","./src/services/attendancestorage.ts","./src/types/attendance.ts"],"version":"5.6.3"}
