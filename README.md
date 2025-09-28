@@ -43,7 +43,7 @@
 ## Giao diện hệ thống
 
 - **Giao diện chính**  
-  ![](screenshot/dashboard.png)
+  ![](screenshot/1.png)
 
 - **Quản lý người dùng**  
   ![](screenshot/2.png)
