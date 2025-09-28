@@ -40,38 +40,41 @@
 - **Timestamp**: Mã QR có thể expire theo thời gian
   
 ## Screenshot
-- Giao diện chính
-![](screenshot/dashboard.png)
+## Giao diện hệ thống
 
-- Quản lý người dung
-![](screenshot/2.png)
+- **Giao diện chính**  
+  ![](screenshot/dashboard.png)
 
-- Tìm kiếm
-![](screenshot/3.png)
+- **Quản lý người dùng**  
+  ![](screenshot/2.png)
 
-- Thêm người dung
-![](screenshot/4.png)
+- **Tìm kiếm**  
+  ![](screenshot/3.png)
 
-- Import file
-![](screenshot/5.png)
+- **Thêm người dùng**  
+  ![](screenshot/4.png)
 
-- Vô hiệu hóa/ kích hoạt tài khoản
-![](screenshot/6.png)
+- **Import file**  
+  ![](screenshot/5.png)
 
-- Mã QR cá nhân
-![](screenshot/7.png)
+- **Vô hiệu hóa / Kích hoạt tài khoản**  
+  ![](screenshot/6.png)
 
-- Check in
-![](screenshot/8.png)
+- **Mã QR cá nhân**  
+  ![](screenshot/7.png)
 
--Check out
-![](screenshot/9.png)
+- **Check in**  
+  ![](screenshot/8.png)
 
-- Lịch sử điểm danh
-![](screenshot/10.png)
+- **Check out**  
+  ![](screenshot/9.png)
 
--Thời gian làm việc
-![](screenshot/11.png)
+- **Lịch sử điểm danh**  
+  ![](screenshot/10.png)
 
-- Thống kê
-![](screenshot/12.png)
+- **Thời gian làm việc**  
+  ![](screenshot/11.png)
+
+- **Thống kê**  
+  ![](screenshot/12.png)
+
